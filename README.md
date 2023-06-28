@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/AbimaelAlcebiades/blob/output/github-contribution-grid-snake.svg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbimaelAlcebiades&theme=bear&show_icons=true&hide=stars,contribs&show=reviews&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbimaelAlcebiades&theme=bear)](https://github.com/AbimaelAlcebiades/github-readme-stats)
