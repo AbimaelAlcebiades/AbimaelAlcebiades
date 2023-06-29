@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abimael Alcebíades</h1>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abimaelalcebiades&label=Profile%20views&color=0e75b6&style=flat" alt="abimaelalcebiades" /> </p>
+
+
+<div align="center">
+
+  ![color picker](https://tenor.com/pt-BR/view/typing-gif-gif-25597112.gif)
+  
+</div>
+
+
 
 - 💬 Ask me about **Java, tests, Javascript, Docker and things about software development OR any thing do you want! :D**
 
 - 📫 How to reach me **abimaelafsilva@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abimaelalcebiades&label=Profile%20views&color=0e75b6&style=flat" alt="abimaelalcebiades" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
